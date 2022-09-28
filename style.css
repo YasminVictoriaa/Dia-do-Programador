@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: none;
+    list-style: none;
+    border: 0;
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+    background-color: rgb(219, 227, 230)
+  } 
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cairo:wght@200&display=swap');
+
+  .main{
+    font-family: 'Cairo', sans-serif;
+    font-size: 5vh;
+    text-align: center;
+
+ }
+  h1{
+  font-family: 'Bebas Neue', cursive;
+ }
+
+h2{
+    font-family: 'Bebas Neue', cursive;
+ }
+
+ p{
+ text-indent: 30px;
+ }
+
+ .capa{
+ position: relative;
+ width: 75%;
+ height: 20%;
+ left: 10px;
+ border-radius: 20px;
+ }
+
+ .foto{
+ position: relative;
+ width: 850px;
+ height: 350px;
+ left: 10px;
+ border-radius: 10px;
+
+ }
